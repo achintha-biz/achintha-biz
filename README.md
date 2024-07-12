@@ -5,6 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web Developer, Software Developer and Designer
 ----------------------------------------------
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=achintha-biz&label=Profile%20views&color=b40e2f&style=flat" alt="achintha-biz" /> </p>
 
 I'm an undergraduate student at Coventry University, currently working as an intern Software Developer at Convergence Lanka Pvt Ltd. Passionate about coding and developing innovative solutions, I have experience in web and software development, with skills in HTML, CSS, JavaScript, Python, and React. Check out my repositories to see what I've been working on!
 
